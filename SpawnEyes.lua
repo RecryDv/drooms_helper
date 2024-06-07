@@ -1,5 +1,5 @@
 --!server
-local Entities = game.ServerScriptService.Game.Directory.Entities\
+local Entities = game.ServerScriptService.Game.Directory.Entities
 Entities = require(Entities)
 			local number = math.random(1, 20)
 			local num = math.random(1, 2)
